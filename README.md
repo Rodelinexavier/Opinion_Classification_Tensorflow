@@ -5,4 +5,4 @@ his dataset contains 7613 rows and 5 columns. And, we use the text message and t
 
 We make EDA, data cleaning and  text processing.
 
-Video: [Rodelin EXAVIER](https://share.vidyard.com/watch/qwMSnhd8BR417zUYzxLBxv?)
+Video: https://share.vidyard.com/watch/qwMSnhd8BR417zUYzxLBxv?
